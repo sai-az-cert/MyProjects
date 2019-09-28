@@ -1,1 +1,2 @@
 THIS IS THE INFORMATION FILE ON THE REPOSITORY
+pull details for release 1
